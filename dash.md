@@ -5,7 +5,7 @@ Welcome to your educational resources hub for the School of Visual Arts! This gu
 ## 📅 Important Dates and Deadlines
 
 - [Official Academic Calendars](https://www.registrar.psu.edu/academic-calendars/) - Be sure to select the current school year
-- [Important Dates and Deadlines](https://pennstateoffice365-my.sharepoint.com/:w:/g/personal/ect113_psu_edu/EdCVJvE_sw9MpB_crNTzxKUBcCokanQQqJsa7Y0crTYN8A?e=aG7hxJ) - My version 
+- [Important Dates and Deadlines](https://pennstateoffice365-my.sharepoint.com/:w:/g/personal/ect113_psu_edu/EdCVJvE_sw9MpB_crNTzxKUBcCokanQQqJsa7Y0crTYN8A?e=aG7hxJ) - My version
 
 ## 🎨 SoVA Majors
 
@@ -26,7 +26,7 @@ Welcome to your educational resources hub for the School of Visual Arts! This gu
 ## 📘 Understanding Gen Ed's
 
 - [General Gen Ed Checklist](https://pennstateoffice365-my.sharepoint.com/:w:/g/personal/ect113_psu_edu/EcMvB67j6VhModdf34KeF1gBuy_YurOhW_pStFRR2Oi7JQ?e=lXrwen) - Document on General Education requirements
-- [How to Search for Gen Ed's](https://pennstateoffice365-my.sharepoint.com/:w:/g/personal/ect113_psu_edu/ETpBLsIIRv9LtW3-nVo4W70BEexLsXQy3QPyiwYyojzzRQ?e=lyHkMe) - Document with step-by-step directions and video. 
+- [How to Search for Gen Ed's](https://pennstateoffice365-my.sharepoint.com/:w:/g/personal/ect113_psu_edu/ETpBLsIIRv9LtW3-nVo4W70BEexLsXQy3QPyiwYyojzzRQ?e=lyHkMe) - Document with step-by-step directions and video.
 - [Which Math/GQ course should I take?](https://www.youtube.com/watch?v=ZK4q6fajKmk) - Video that shows math/statistics recommendations for SoVA majors
 - [Info about ENGL 15/ENGL 202](https://www.pwr.psu.edu/courses/) - Links to frequently asked questions about GWS (Writing/Speaking) requirements.
 - [Info about CAS 100 (Effective Speech)](https://cas.la.psu.edu/undergraduate/cas-100-faq/) - Links to frequently asked questions about GWS (Writing/Speaking)
@@ -51,10 +51,10 @@ Welcome to your educational resources hub for the School of Visual Arts! This gu
 - [Finances for College](https://dus.psu.edu/dusuccess/finances-college)- Resources for financial aid and scholarships at Penn State
 - [Explore Minors and Certificates](https://pennstateoffice365-my.sharepoint.com/:w:/g/personal/ect113_psu_edu/EZFTGh_FJx5KsGu5fMZbSy8BILTAKDyQBvPPIv-jrZuogw?e=C3q7iO) - Information about minors and certificates
 - [Personal Challenges](https://dus.psu.edu/dusuccess/personal-issues) - Resources for CAPS (counseling), stress management, text anxiety, etc.
-- [Scholarships](https://pennstateoffice365-my.sharepoint.com/:w:/g/personal/ect113_psu_edu/ETpElDx--dpAg_JE3m6JJHcB30ENY6hyZyaO40D_DMEkqw?e=4zo57z)- List of scholarships, awards, grants, work study, etc. 
+- [Scholarships](https://pennstateoffice365-my.sharepoint.com/:w:/g/personal/ect113_psu_edu/ETpElDx--dpAg_JE3m6JJHcB30ENY6hyZyaO40D_DMEkqw?e=4zo57z)- List of scholarships, awards, grants, work study, etc.
 - [Study Abroad](https://pennstateoffice365-my.sharepoint.com/:w:/g/personal/ect113_psu_edu/EWmzu4u-jAxFjzHkRirvenQB1x6UUE1ad_h3qUZ2nzoJQw?e=CotByT) - Education Abroad websites
 - [Study Skills & Time Management](https://dus.psu.edu/dusuccess/study-skills-time-management) - Links to DUS resources
-- [Technology](https://dus.psu.edu/dusuccess/technology) - Resources on LionPATH, Starfish, PSU Accounts, 24/7 Tech Support, etc. 
+- [Technology](https://dus.psu.edu/dusuccess/technology) - Resources on LionPATH, Starfish, PSU Accounts, 24/7 Tech Support, etc.
 - [Transferring Credits to Penn State](https://pennstateoffice365-my.sharepoint.com/:w:/g/personal/ect113_psu_edu/Ec39KnMbLyJCuP--EppN028B4yiU5HJ-EzoTv1lh3_9Rag?e=zUY5Gt) - Document about how to transfer credits for SoVA
 - [Tutoring & Academic Help](https://pennstatelearning.psu.edu/) - Penn State Learning website
 
@@ -64,7 +64,6 @@ Welcome to your educational resources hub for the School of Visual Arts! This gu
 - [PSU Faculty and Staff Directory](https://directory.psu.edu/) - Search here for any PSU faculty or staff member
 - [Arts and Architecture Contacts](https://pennstateoffice365-my.sharepoint.com/:w:/g/personal/ect113_psu_edu/EUUTV2UiiEJJmUEgmSCfMvwBlNW8lqbGzepzw61-_bG8Wg?e=ARa9BM) - Links to my current list of important contacts in A&A
 
-  
 ---
 
 *Last updated: [Date]*
