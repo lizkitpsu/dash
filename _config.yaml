@@ -4,7 +4,7 @@ markdown: kramdown
 #remote_theme: "riggraz/no-style-please"
 relative_url: true
 plugins:
-  - jekyll-readme-index # Use README.md as index file
+  #- jekyll-readme-index # Use README.md as index file
   - jekyll-titles-from-headings
   - jekyll-feed
   - jekyll-seo-tag
@@ -13,7 +13,7 @@ titles_from_headings:
   strip_title: true
   collections: true
 author: 
-  name: "David W. Agler"
+  name: "Liz Agler"
 
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
