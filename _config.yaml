@@ -5,7 +5,7 @@ markdown: kramdown
 relative_url: true
 plugins:
   #- jekyll-readme-index # Use README.md as index file
-  - jekyll-titles-from-headings
+  #- jekyll-titles-from-headings
   - jekyll-feed
   - jekyll-seo-tag
 titles_from_headings:
