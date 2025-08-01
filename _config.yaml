@@ -1,11 +1,13 @@
 title: "Academic Advising Dashboard"
 description: "Links for Academic Advising at Penn State."
 markdown: kramdown
+remote_theme: pages-themes/leap-day@v0.2.0
 #remote_theme: "riggraz/no-style-please"
 relative_url: true
 plugins:
   #- jekyll-readme-index # Use README.md as index file
   #- jekyll-titles-from-headings
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
 titles_from_headings:
