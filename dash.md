@@ -5,7 +5,7 @@ Welcome to your educational resources hub for the School of Visual Arts! This gu
 ## 📅 Important Dates and Deadlines
 
 - [Official Academic Calendars](https://www.registrar.psu.edu/academic-calendars/) - Be sure to select the current school year
-- [Important Dates and Deadlines](https://pennstateoffice365-my.sharepoint.com/:w:/g/personal/ect113_psu_edu/EdCVJvE_sw9MpB_crNTzxKUBcCokanQQqJsa7Y0crTYN8A?e=aG7hxJ) - My version
+- [Important Dates and Deadlines](https://pennstateoffice365-my.sharepoint.com/:w:/g/personal/ect113_psu_edu/IQC5bxwO-xgCSZ8l9CoSq8pkAdDUotcyBY6guKQKoB8mZUk?CID=f9e19e8f-6f7c-3bc6-a3d4-1de75f1ac6da&e=EbLJ99) - My version
 
 ## 🎨 SoVA Majors
 
@@ -66,4 +66,4 @@ Welcome to your educational resources hub for the School of Visual Arts! This gu
 
 ---
 
-Last updated: June 8, 2024
+Last updated: Jan 6, 2026
