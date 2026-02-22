@@ -66,4 +66,5 @@ Welcome to your educational resources hub for the School of Visual Arts! This gu
 
 ---
 
-Last updated: Jan 6, 2026
+Last updated: Feb 21, 2026
+

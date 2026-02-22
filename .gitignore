@@ -1,3 +1,11 @@
+old_site/
+site/
+
 config.txt
 check_links.py
 link-check-results.json
+
+.cache
+.github\workflows
+.venv
+zensical_notes.md
